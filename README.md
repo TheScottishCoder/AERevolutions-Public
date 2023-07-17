@@ -24,6 +24,8 @@ Here's the step-by-step guide:
 
 Enjoy cookingup your special recipes without the hassle of tabbing out! 😎🎮
 
+Note: Cheats menu can be found by going to Misc then clicking the "Cheats" Button.
+
 
 ## 🛡️ Anti-Virus False Positive Note
 
