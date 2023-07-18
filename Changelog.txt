@@ -1,0 +1,15 @@
+# AERevolutions-Public
+ 
+**AE-Revolutions Changelog:**
+
+**17/07/2023**
+- Initial Release
+
+**19/07/2023**
+- Fixed DrugDetails backend
+- Added Purchase location / Avg Price Per G to DrugDetails.
+- Added Location Demand to DrugDetails.
+- Added ability to open shady community in browser window
+- Recipe lists auto-refreshes every 90 seconds.
+- Open the in-game computer from anywhere using the key bind  `P` *(Has to be enabled in Misc -> Cheats)*
+- Added main menu check. Prevents crashing when not in a save.
