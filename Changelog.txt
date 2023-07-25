@@ -13,3 +13,18 @@
 - Recipe lists auto-refreshes every 90 seconds.
 - Open the in-game computer from anywhere using the key bind  `P` *(Has to be enabled in Misc -> Cheats)*
 - Added main menu check. Prevents crashing when not in a save.
+
+**25/07/2023**
+- Improved Object Manager backend.
+- Fixed Objects not being found in rare instances.
+- Fixed Teleport XYZ not working.
+- Moved Economy Tab to be part of Player Tab
+- Moved Plant Tab to be part of World Tab
+- Changed Gang tab to Order Tab.
+- Changed Recipe list auto-refresh to every 20 seconds.
+- Added plant objects to auto-refresh every 30 seconds
+- Added Inventory Editor **Beta**
+- Added option to disable police checkpoint
+- Added option to skip Eddie wait
+- Added option to bring Eddie back.
+- Added Debug Log Menu
